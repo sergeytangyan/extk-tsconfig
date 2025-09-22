@@ -1,0 +1,24 @@
+{
+    "name": "@extk/tsconfig",
+    "version": "0.1.0",
+    "description": "Shared TypeScript config for my projects",
+    "exports": "./tsconfig.json",
+    "sideEffects": false,
+    "publishConfig": {
+        "access": "public"
+    },
+    "engines": {
+        "node": ">=20"
+    },
+    "files": [
+        "tsconfig.json"
+    ],
+    "keywords": [
+        "extk",
+        "tsconfig",
+        "typescript",
+        "ts",
+        "config",
+        "configuration"
+    ]
+}
